@@ -180,3 +180,13 @@
 20230811	18:57:53	232f495d-f3a6-4d71-9a43-afda0dd6d4bb	POST	undefined	/register
 20230811	18:58:13	57c35a94-ab03-44d8-9654-4c6bd0ac956e	POST	undefined	/register
 20230811	19:21:43	ca43e5fd-472e-4d6d-9aa2-f0166d80009b	POST	undefined	/register
+20230811	20:20:36	9c8204d0-9c25-41dc-9a54-9604928f2cee	GET	undefined	/
+20230811	20:20:37	6abaf8b0-d7bc-49e2-adbd-ba94548de8e6	GET	undefined	/css/style.css
+20230811	20:20:37	43adecbd-6614-49ad-a626-a97d3d084620	GET	undefined	/favicon.ico
+20230811	20:20:56	48416907-aa7a-4345-923c-4dde5dde90f6	GET	undefined	/404
+20230811	20:20:57	d40c4e10-e854-4e24-ae23-334e77020695	GET	undefined	/css/style.css
+20230811	20:20:57	77260dc1-ee83-4ae1-88a4-bcfd059b8742	GET	undefined	/favicon.ico
+20230811	20:23:04	875de444-faef-4a1c-bb88-b8b3b05fe320	GET	undefined	/subdir/
+20230811	20:23:04	83280bd1-f0bb-4b26-b164-1b657e3b0680	GET	undefined	/subdir/css/style.css
+20230811	20:32:56	5c6f33a3-598f-40e6-beb8-9e20a631b061	POST	undefined	/register
+20230811	20:33:11	8fe394c5-582a-4d7c-881e-b7c1123ffaca	POST	undefined	/register
